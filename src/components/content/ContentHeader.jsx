@@ -1,4 +1,4 @@
-const ContentHeader = function () {
+const ContentHeader = function (props) {
   return (
     <div className="content">
       <div className="content__header">
